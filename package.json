@@ -1,0 +1,21 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "TO do list CRUD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivank Goel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^2.6.1",
+    "express": "^4.18.2",
+    "mongodb": "^5.2.0",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
